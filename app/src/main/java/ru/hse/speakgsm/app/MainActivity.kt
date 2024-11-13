@@ -40,7 +40,6 @@ class MainActivity : ComponentActivity() {
             }
         }
     }
-
     @Composable
     fun BottomNavigationBar() {
         BottomNavigation(
